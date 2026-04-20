@@ -15,3 +15,5 @@ ESP32 Dev Module
 ## Nog te doen
 - LED laten knipperen
 - knop toevoegen
+
+Bijgewerkt vanuit VM.
