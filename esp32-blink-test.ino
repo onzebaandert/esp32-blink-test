@@ -1,7 +1,7 @@
 void setup() {
   Serial.begin(115200);
   delay(1000);
-  Serial.println("ESP32 start weer");
+  Serial.println("ESP32 start VM");
 }
 
 void loop() {
